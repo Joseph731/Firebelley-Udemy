@@ -13,3 +13,4 @@ func increment_experience(number: float):
 
 func on_experience_vial_collected(number: float):
 	increment_experience(number)
+
